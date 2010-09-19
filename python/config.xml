@@ -1,0 +1,891 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<configuration>
+  <package name='Archive-Zip'/>
+  <package name='Compress-Raw-Zlib'/>
+  <package name='Compress-Zlib'/>
+  <package name='IO-Compress-Base'/>
+  <package name='IO-Compress-Zlib'/>
+  <package name='acct'/>
+  <package name='acl'/>
+  <package name='acpid'/>
+  <package name='adjtimex'/>
+  <package name='alsa-lib'/>
+  <package name='alsa-oss'/>
+  <package name='alsa-utils'/>
+  <package name='ant'/>
+  <package name='apache'/>
+  <package name='apr'/>
+  <package name='arts'/>
+  <package name='at'/>
+  <package name='atk'/>
+  <package name='attr'/>
+  <package name='audiofile'/>
+  <package name='audit'/>
+  <package name='autoconf'/>
+  <package name='autogen'/>
+  <package name='automake'/>
+  <package name='bash'/>
+  <package name='bc'/>
+  <package name='beecrypt'/>
+  <package name='bin86'/>
+  <package name='bind'/>
+  <package name='bindutils'/>
+  <package name='binutils'/>
+  <package name='bison'/>
+  <package name='byacc'/>
+  <package name='bzip2'/>
+  <package name='bridge-utils'/>
+  <package name='cairo'/>
+  <package name='ccache'/>
+  <package name='cdrtools'/>
+  <package name='coreutils'/>
+  <package name='cpio'/>
+  <package name='cracklib'/>
+  <package name='cups'/>
+  <package name='cvs'/>
+  <package name='db'/>
+  <package name='dbus'/>
+  <package name='dbus-glib-1'/>
+  <package name='dcron'/>
+  <package name='ddd'/>
+  <package name='dejagnu'/>
+  <package name='device-mapper'/>
+  <package name='dhcp'/>
+  <package name='dhcpcd'/>
+  <package name='dialog'/>
+  <package name='diffutils'/>
+  <package name='dosfstools'/>
+  <package name='dvd+rw-tools'/>
+  <package name='e2fsprogs'/>
+  <package name='ed'/>
+  <package name='eject'/>
+  <package name='elilo'/>
+  <package name='emacs'/>
+  <package name='esound'/>
+  <package name='expat'/>
+  <package name='expect'/>
+  <package name='fcitx'/>
+  <package name='fetchmail'/>
+  <package name='file'/>
+  <package name='filesystem'/>
+  <package name='findutils'/>
+  <package name='firefox'/>
+  <package name='flex'/>
+  <package name='fontconfig'/>
+  <package name='freetype'/>
+  <package name='fribidi'/>
+  <package name='gamin'/>
+  <package name='gawk'/>
+  <package name='gcc'/>
+  <package name='gd'/>
+  <package name='gdb'/>
+  <package name='gdbm'/>
+  <package name='gdk-pixbuf'/>
+  <package name='gettext'/>
+  <package name='glib1'/>
+  <package name='glib2'/>
+  <package name='glibc'/>
+  <package name='glitz'/>
+  <package name='gmp'/>
+  <package name='gnu-efi'/>
+  <package name='gperf'/>
+  <package name='gpm'/>
+  <package name='grep'/>
+  <package name='groff'/>
+  <package name='grub'/>
+  <package name='gtk1'/>
+  <package name='gtk2'/>
+  <package name='guile'/>
+  <package name='gzip'/>
+ <package name='haskell-libedit'/>
+ <package name='haskell-ghc'/>
+ <package name='haskell-pandoc'/>
+  <package name='hdparm'/>
+  <package name='help2man'/>
+  <package name='hicolor-icon-theme'/>
+  <package name='hotplug'/>
+  <package name='imlib'/>
+  <package name='intltool'/>
+  <package name='iproute2'/>
+  <package name='iptables'/>
+  <package name='ispell'/>
+  <package name='jdk'/>
+  <package name='jfsutils'/>
+  <package name='kbd'/>
+  <package name='kde-i18n-zh_CN'/>
+  <package name='kdeaccessibility'/>
+  <package name='kdeaddons'/>
+  <package name='kdeadmin'/>
+  <package name='kdeartwork'/>
+  <package name='kdebase'/>
+  <package name='kdebindings'/>
+  <package name='kdeedu'/>
+  <package name='kdegames'/>
+  <package name='kdegraphics'/>
+  <package name='kdelibs'/>
+  <package name='kdemultimedia'/>
+  <package name='kdenetwork'/>
+  <package name='kdepim'/>
+  <package name='kdesdk'/>
+  <package name='kdetoys'/>
+  <package name='kdeutils'/>
+  <package name='kdevelop'/>
+  <package name='kdewebdev'/>
+  <package name='kernel-header'/>
+  <package name='killproc'/>
+  <package name='lcms'/>
+  <package name='less'/>
+  <package name='lesstif'/>
+  <package name='libaio'/>
+  <package name='libarchive'/>
+  <package name='libart_lgpl'/>
+  <package name='libcap'/>
+  <package name='libidl'/>
+  <package name='libjpeg'/>
+  <package name='libmac'/>
+  <package name='libmec'/>
+  <package name='libmng'/>
+  <package name='libogg'/>
+  <package name='libpcap'/>
+  <package name='libpng'/>
+  <package name='libstdc++-compat'/>
+  <package name='libtiff'/>
+  <package name='libtool'/>
+  <package name='libungif'/>
+  <package name='libusb'/>
+  <package name='libvorbis'/>
+  <package name='libxml2'/>
+  <package name='libxslt'/>
+  <package name='linux-identd'/>
+  <package name='linux-pam'/>
+  <package name='linx_init'/>
+  <package name='lm_sensors'/>
+  <package name='logrotate'/>
+  <package name='lukemftp'/>
+  <package name='lvm2'/>
+  <package name='lynx'/>
+  <package name='m4'/>
+  <package name='mactools'/>
+  <package name='make'/>
+  <package name='man'/>
+  <package name='man-pages'/>
+  <package name='mdadm'/>
+  <package name='mectools'/>
+  <package name='mktemp'/>
+  <package name='mod_perl'/>
+  <package name='mod_php'/>
+  <package name='module-init-tools'/>
+  <package name='mpfr'/>
+  <package name='mt-st'/>
+  <package name='mysql'/>
+  <package name='nail'/>
+  <package name='nasm'/>
+  <package name='ncurses'/>
+  <package name='net-snmp'/>
+  <package name='net-tools'/>
+  <package name='netkit-base'/>
+  <package name='netkit-rsh'>
+	   <service script="inetd" number="S310"/>
+  	   <service script="rsh" number=""/>
+  	   <service script="rcp" number=""/>
+  	   <service script="rlogin" number=""/>
+  </package>
+  <package name='netkit-telnet'/>
+  <package name='netkit-telnetd'>
+  	   <service script="inetd" number="S310"/>
+  	   <service script="telnet" number=""/>
+  </package>
+  <package name='nfs-utils'/>
+  <package name='ntp'/>
+  <package name='openldap'/>
+  <package name='openoffice'/>
+  <package name='openssh'>
+  	   <service script="sshd" number="S205"/>
+  	   <service script="ssh" number=""/>
+  </package>
+  <package name='openssl'/>
+  <package name='pam_make'/>
+  <package name='pango'/>
+  <package name='parted'/>
+  <package name='patch'/>
+  <package name='pciutils'/>
+  <package name='pcre'/>
+  <package name='perl'/>
+  <package name='perl-gettext'/>
+  <package name='pine'/>
+  <package name='pixman'/>
+  <package name='pkg-config'/>
+  <package name='pkgutils'/>
+  <package name='poppler'/>
+  <package name='popt'/>
+  <package name='portmap'/>
+  <package name='ports'/>
+  <package name='postfix'/>
+  <package name='ppp'/>
+  <package name='procmail'/>
+  <package name='procps'/>
+  <package name='proftpd'>
+  	   <service script="proftpd" number="S280"/>
+  	   <service script="ftp" number=""/>
+  </package>
+  <package name='psmisc'/>
+  <package name='python'/>
+  <package name='qt3'/>
+  <package name='quota'/>
+  <package name='qemu-kvm'/>
+  <package name='raidtools'/>
+  <package name='rdate'/>
+  <package name='readline'/>
+  <package name='reiserfsprogs'/>
+  <package name='rpm'/>
+  <package name='rpm2targz'/>
+  <package name='rsync'/>
+  <package name='ruby'/>
+  <package name='rxvt'/>
+  <package name='samba'/>
+  <package name='scim'/>
+  <package name='scim-pinyin'/>
+  <package name='scim-tables'/>
+  <package name='sed'/>
+  <package name='shadow'/>
+  <package name='slocate'/>
+  <package name='smartmontools'/>
+  <package name='snort'/>
+  <package name='squid'/>
+  <package name='star'/>
+  <package name='strace'/>
+  <package name='sysfsutils'/>
+  <package name='sysklogd'/>
+  <package name='sysstat'/>
+  <package name='sysvinit'/>
+  <package name='SDL'/>
+  <package name='tar'/>
+  <package name='tcl'/>
+  <package name='tcp_wrappers'/>
+  <package name='tcpdump'/>
+  <package name='tcsh'/>
+  <package name='termcap'/>
+  <package name='texinfo'/>
+  <package name='tightvnc'/>
+  <package name='time'/>
+  <package name='timezone'/>
+  <package name='tk'/>
+  <package name='traceroute'/>
+  <package name='tree'/>
+  <package name='texi2html'/>
+  <package name='udev'/>
+  <package name='unzip'/>
+  <package name='usbutils'/>
+  <package name='util-linux'/>
+  <package name='uml-utilities'/>
+  <package name='vim'/>
+  <package name='vixie-cron'/>
+  <package name='webfs'/>
+  <package name='wget'/>
+  <package name='which'/>
+  <package name='windowmaker'/>
+  <package name='x11-fonts-chinese'/>
+  <package name='xchat'/>
+  <package name='xfsprogs'/>
+  <package name='xosview'/>
+  <package name='zip'/>
+  <package name='zlib'/>
+
+  <!-- xorg related packages -->
+  <package name='XML-Parser'/>
+  <package name='xorg-x11-proto'/>
+  <package name='xorg-x11-util'/>
+  <package name='xorg-x11-xtrans'/>
+  <package name='xorg-x11-libXau'/>
+  <package name='xorg-x11-libXdmcp'/>
+  <package name='xorg-x11-libX11'/>
+  <package name='xorg-x11-libXext'/>
+  <package name='xorg-x11-libdmx'/>
+  <package name='xorg-x11-libfontenc'/>
+  <package name='xorg-x11-libFS'/>
+  <package name='xorg-x11-libICE'/>
+  <package name='xorg-x11-libXp'/>
+  <package name='xorg-x11-libXpm'/>
+  <package name='xorg-x11-libXfixes'/>
+  <package name='xorg-x11-libXcomposite'/>
+  <package name='xorg-x11-libXrender'/>
+  <package name='xorg-x11-libXdamage'/>
+  <package name='xorg-x11-libXcursor'/>
+  <package name='xorg-x11-libXfont'/>
+  <package name='xorg-x11-libXfontcache'/>
+  <package name='xorg-x11-libXft'/>
+  <package name='xorg-x11-libXi'/>
+  <package name='xorg-x11-libXinerama'/>
+  <package name='xorg-x11-libxkbfile'/>
+  <package name='xorg-x11-libXrandr'/>
+  <package name='xorg-x11-libXres'/>
+  <package name='xorg-x11-libXScrnSaver'/>
+  <package name='xorg-x11-libXtst'/>
+  <package name='xorg-x11-libXv'/>
+  <package name='xorg-x11-libXvMC'/>
+  <package name='xorg-x11-libXxf86dga'/>
+  <package name='xorg-x11-libXxf86misc'/>
+  <package name='xorg-x11-libXxf86vm'/>
+  <package name='xorg-x11-libSM'/>
+  <package name='xorg-x11-libpciaccess'/>
+  <package name='xorg-x11-libXt'/>
+  <package name='xorg-x11-libXmu'/>
+  <package name='xorg-x11-libXaw'/>
+  <package name='xorg-x11-libAppleWM'/>
+  <package name='xorg-x11-libWindowsWM'/>
+  <package name='xorg-x11-doc'/>
+  <package name='xorg-x11-xbitmaps'/>
+  <package name='xorg-x11-app'/>
+  <package name='xorg-x11-xcursor-themes'/>
+  <package name='xorg-x11-font-util'/>
+  <package name='xorg-x11-font-x11'/>
+  <package name='xorg-x11-xserver'/>
+  <package name='xorg-x11-driver'/>
+  <package name='xorg-x11-app-twm'/>
+  <package name='xorg-x11-app-xinit'/>
+  <package name='xcb-proto'/>
+  <package name='libxcb'/>
+  <package name='libpthread-stubs'/>
+  <package name='Mesa'/>
+  <package name='libdrm'/>
+  <package name='xkeyboard-config'/>
+
+  <package name='amsn'>
+    <description>
+      TLS is an OpenSSL / RSA-bsafe Tcl extension that provides secure connections on top of the Tcl socket mechanism. 
+    </description>
+  </package>
+  <package name='cpufrequtils'>
+    <description>
+      Clock scaling userspace tools
+    </description>
+  </package>
+  <package name='cscope'>
+    <description>
+      Cscope is a developer's tool for browsing source code.
+    </description>
+  </package>
+  <package name='git-manpages'>
+    <description>
+      git manpages	
+    </description>
+  </package>
+  <package name='git'>
+    <description>
+      git, fast version control system
+    </description>
+  </package>
+  <package name='glibmm'>
+    <description>
+      C++ Interfaces for GTK+ and GNOME
+    </description>
+  </package>
+  <package name='gnupg'>
+    <description>
+      GNU privacy guard version 1.4.x
+    </description>
+  </package>
+  <package name='libsigc++'>
+    <description>
+      Callback Framework for C++
+    </description>
+  </package>
+  <package name='libxml++'>
+    <description>
+      libxml++ is a C++ API for the popular libxml XML parser, written in C
+    </description>
+  </package>
+  <package name='lsof'>
+    <description>
+      list open files
+    </description>
+  </package>
+  <package name='PyXML'>
+    <description>
+      xml processor for Python
+    </description>
+  </package>
+  <package name='thunderbird'>
+    <description>
+      email client from the Mozilla project
+    </description>
+  </package>
+  <package name='tls'>
+    <description>
+      TLS is an OpenSSL / RSA-bsafe Tcl extension that provides secure connections on top of the Tcl socket mechanism. 
+    </description>
+  </package>
+  <package name='unrar'>
+    <description>
+      unrar is a free software version of the non-free unrar utility that exists on many GNU/Linux systems today.
+    </description>
+  </package>
+  <package name='wireshark'>
+    <description>
+      Wireshark is an award-winning network protocol analyzer.
+    </description>
+  </package>
+  <package name='clearsilver'/>
+  <package name='python-genshi'/>
+  <package name='python-setuptools'/>
+  <package name='sqlite'/>
+  <package name='subversion'/>
+  <package name='subversion-python'/>
+  <package name='swig'/>
+  <package name='trac'/>
+    <group name='base'>
+    <description>
+    基础类是包括字符界面的最小系统，可以独立运行各种不依靠图形界面的程序，
+    除 ssh(d) 外不包括其它网络服务。
+    基础类软件包分为必选包和可选包，必选包是默认安装的，可选包可以自由选择安装。
+    </description>
+    <including install='mandatory' package='acct'/>
+    <including install='mandatory' package='acl'/>
+    <including install='mandatory' package='acpid'/>
+    <including install='optional' package='adjtimex'/>
+    <including install='optional' package='at'/>
+    <including install='mandatory' package='attr'/>
+    <including install='optional' package='audit'/>
+    <including install='mandatory' package='bash'/>
+    <including install='optional' package='bc'/>
+    <including install='optional' package='beecrypt'/>
+    <including install='mandatory' package='bzip2'/>
+    <including install='optional' package='cdrtools'/>
+    <including install='mandatory' package='coreutils'/>
+    <including install='mandatory' package='cpio'/>
+    <including install='optional' package='cpufrequtils'/>
+    <including install='mandatory' package='cracklib'/>
+    <including install='mandatory' package='db'/>
+    <!-- delete device-mapper, because new version lvm2 includes it -->
+    <including install='optional' package='dialog'/>
+    <including install='mandatory' package='diffutils'/>
+    <including install='optional' package='dosfstools'/>
+    <including install='mandatory' package='e2fsprogs'/>
+    <including install='optional' package='ed'/>
+    <including install='mandatory' package='eject'/>
+    <including install='optional' package='expat'/>
+    <including install='mandatory' package='expect'/>
+    <including install='mandatory' package='file'/>
+    <including install='mandatory' package='filesystem'/>
+    <including install='mandatory' package='findutils'/>
+    <including install='optional' package='gawk'/>
+    <including install='mandatory' package='gcc'/>
+    <including install='mandatory' package='gdbm'/>
+    <including install='optional' package='gettext'/>
+    <including install='mandatory' package='glibc'/>
+    <including install='mandatory' package='gmp'/>
+    <including install='mandatory' package='grep'/>
+    <including install='mandatory' package='groff'/>
+    <including install='mandatory' package='grub'/>
+    <including install='mandatory' package='gzip'/>
+    <including install='optional' package='hdparm'/>
+    <including install='optional' package='help2man'/>
+    <including install='mandatory' package='hotplug'/>
+    <including install='mandatory' package='iproute2'/>
+    <including install='mandatory' package='iptables'/>
+    <including install='mandatory' package='ispell'/>
+    <including install='optional' package='jfsutils'/>
+    <including install='mandatory' package='kbd'/>
+    <including install='mandatory' package='kernel-header'/>
+    <including install='mandatory' package='killproc'/>
+    <including install='mandatory' package='less'/>
+    <including install='optional' package='libaio'/>
+    <including install='mandatory' package='libarchive'/>
+    <including install='mandatory' package='libcap'/>
+    <including install='mandatory' package='libusb'/>
+    <including install='optional' package='libxml2'/>
+    <including install='optional' package='libxslt'/>
+    <including install='mandatory' package='linux-pam'/>
+    <including install='mandatory' package='linx_init'/>
+    <including install='optional' package='lm_sensors'/>
+    <including install='mandatory' package='logrotate'/>
+    <including install='optional' package='lsof'/>
+    <including install='optional' package='lvm2'/>
+    <including install='mandatory' package='man'/>
+    <including install='mandatory' package='man-pages'/>
+    <including install='optional' package='mdadm'/>
+    <including install='mandatory' package='mktemp'/>
+    <including install='mandatory' package='module-init-tools'/>
+    <including install='mandatory' package='mpfr'/>
+    <including install='optional' package='mt-st'/>
+    <including install='optional' package='mysql'/>
+    <including install='mandatory' package='ncurses'/>
+    <including install='mandatory' package='net-tools'/>
+    <including install='mandatory' package='netkit-base'/>
+    <including install='optional' package='netkit-telnetd'/>
+    <including install='mandatory' package='openssh'/>
+    <including install='mandatory' package='openssl'/>
+    <including install='mandatory' package='pam_make'/>
+    <including install='mandatory' package='patch'/>
+    <including install='mandatory' package='pciutils'/>
+    <including install='optional' package='pcre'/>
+    <including install='mandatory' package='perl'/>
+    <including install='mandatory' package='perl-gettext'/>
+    <including install='mandatory' package='pkg-config'/>
+    <including install='mandatory' package='pkgutils'/>
+    <including install='mandatory' package='popt'/>
+    <including install='mandatory' package='ports'/>
+    <including install='mandatory' package='procps'/>
+    <including install='mandatory' package='psmisc'/>
+    <including install='optional' package='python'/>
+    <including install='optional' package='quota'/>
+    <including install='optional' package='raidtools'/>
+    <including install='mandatory' package='readline'/>
+    <including install='mandatory' package='reiserfsprogs'/>
+    <including install='optional' package='rpm'/>
+    <including install='mandatory' package='rpm2targz'/>
+    <including install='mandatory' package='sed'/>
+    <including install='mandatory' package='shadow'/>
+    <including install='mandatory' package='slocate'/>
+    <including install='mandatory' package='smartmontools'/>
+    <including install='mandatory' package='star'/>
+    <including install='mandatory' package='sysfsutils'/>
+    <including install='mandatory' package='sysklogd'/>
+    <including install='optional' package='sysstat'/>
+    <including install='mandatory' package='sysvinit'/>
+    <including install='mandatory' package='tar'/>
+    <including install='mandatory' package='tcl'/>
+    <including install='mandatory' package='tcp_wrappers'/>
+    <including install='optional' package='tcsh'/>
+    <including install='optional' package='termcap'/>
+    <including install='mandatory' package='texinfo'/>
+    <including install='mandatory' package='time'/>
+    <including install='mandatory' package='timezone'/>
+    <including install='optional' package='traceroute'/>
+    <including install='optional' package='tree'/>
+    <including install='mandatory' package='udev'/>
+    <including install='optional' package='unrar'/>
+    <including install='optional' package='unzip'/>
+    <including install='optional' package='usbutils'/>
+    <including install='mandatory' package='util-linux'/>
+    <including install='optional' package='texi2html'/>
+    <including install='mandatory' package='vim'/>
+    <including install='mandatory' package='vixie-cron'/>
+    <including install='optional' package='wget'/>
+    <including install='mandatory' package='which'/>
+    <including install='optional' package='xfsprogs'/>
+    <including install='optional' package='zip'/>
+    <including install='mandatory' package='zlib'/>
+  </group>
+  <group name='development'>
+    <description>
+    开发类包括 C、C++（Fortran）、DDD 等开发工具。
+    开发类软件包分为必选包和可选包，当选择安装该类后，必选包是默认安装的，可选包可以自由选择安装。
+    </description>
+    <including install='optional' package='ant'/>
+    <including install='optional' package='Archive-Zip'/>
+    <including install='mandatory' package='autoconf'/>
+    <including install='optional' package='autogen'/>
+    <including install='mandatory' package='automake'/>
+    <including install='optional' package='bin86'/>
+    <including install='mandatory' package='binutils'/>
+    <including install='optional' package='bison'/>
+    <including install='optional' package='byacc'/>
+    <including install='optional' package='ccache'/>
+    <including install='optional' package='Compress-Raw-Zlib'/>
+    <including install='optional' package='Compress-Zlib'/>
+    <including install='optional' package='cvs'/>
+    <including install='optional' package='cscope'/>
+    <including install='optional' package='ddd'/>
+    <including install='optional' package='dejagnu'/>
+    <including install='optional' package='flex'/>
+    <including install='mandatory' package='gdb'/>
+    <including install='optional' package='git'/>
+    <including install='optional' package='git-manpages'/>
+    <including install='optional' package='glibmm'/>
+    <including install='optional' package='gnupg'/>
+    <including install='optional' package='gperf'/>
+    <including install='optional' package='guile'/>
+    <including install='optional' package='intltool'/>
+    <including install='optional' package='IO-Compress-Base'/>
+    <including install='optional' package='IO-Compress-Zlib'/>
+    <including install='optional' package='jdk'/>
+    <including install='optional' package='libidl'/>
+    <including install='optional' package='libsigc++'/>
+    <including install='optional' package='libstdc++-compat'/>
+    <including install='optional' package='libxml++'/>
+    <including install='optional' package='libtool'/>
+    <including install='mandatory' package='m4'/>
+    <including install='mandatory' package='make'/>
+    <including install='optional' package='nasm'/>
+    <including install='optional' package='PyXML'/>
+    <including install='optional' package='strace'/>
+    <including install='optional' package='tls'/>
+    <including install='optional' package='XML-Parser'/>
+    <including install='optional' package='clearsilver'/>
+    <including install='optional' package='python-genshi'/>
+    <including install='optional' package='python-setuptools'/>
+    <including install='optional' package='sqlite'/>
+    <including install='optional' package='subversion'/>
+    <including install='optional' package='subversion-python'/>
+    <including install='optional' package='swig'/>
+    <including install='optional' package='trac'/>
+    <including install='optional' package='ruby'/>
+  </group>
+  <group name='gui'>
+    <description>
+    图形类包括 X11 相关的各种程序。
+    图形类软件包分为必选包和可选包，当选择安装该类后，必选包是默认安装的，可选包可以自由选择安装。
+    </description>
+    <including install='optional' package='arts'/>
+    <including install='optional' package='atk'/>
+    <including install='optional' package='cairo'/>
+    <including install='optional' package='emacs'/>
+    <including install='optional' package='fcitx'/>
+    <including install='optional' package='fontconfig'/>
+    <including install='optional' package='freetype'/>
+    <including install='optional' package='fribidi'/>
+    <including install='optional' package='gamin'/>
+    <including install='optional' package='gd'/>
+    <including install='optional' package='gdk-pixbuf'/>
+    <including install='optional' package='glib1'/>
+    <including install='optional' package='glib2'/>
+    <including install='optional' package='glitz'/>
+    <including install='optional' package='gpm'/>
+    <including install='optional' package='gtk1'/>
+    <including install='optional' package='gtk2'/>
+    <including install='optional' package='hicolor-icon-theme'/>
+    <including install='optional' package='imlib'/>
+    <including install='optional' package='lesstif'/>
+    <including install='optional' package='pango'/>
+    <including install='optional' package='pixman'/>
+    <including install='optional' package='poppler'/>
+    <including install='optional' package='qt3'/>
+    <including install='optional' package='rxvt'/>
+    <including install='mandatory' package='scim'/>
+    <including install='mandatory' package='scim-pinyin'/>
+    <including install='mandatory' package='scim-tables'/>
+    <including install='optional' package='SDL'/>
+    <including install='optional' package='tightvnc'/>
+    <including install='optional' package='tk'/>
+    <including install='optional' package='windowmaker'/>
+    <!-- xorg related packages -->
+    <including install='mandatory' package='xorg-x11-proto'/>
+    <including install='mandatory' package='xorg-x11-util'/>
+    <including install='mandatory' package='xorg-x11-xtrans'/>
+    <including install='mandatory' package='xorg-x11-libXau'/>
+    <including install='mandatory' package='xorg-x11-libXdmcp'/>
+    <including install='mandatory' package='xorg-x11-libX11'/>
+    <including install='mandatory' package='xorg-x11-libXext'/>
+    <including install='mandatory' package='xorg-x11-libdmx'/>
+    <including install='mandatory' package='xorg-x11-libfontenc'/>
+    <including install='mandatory' package='xorg-x11-libFS'/>
+    <including install='mandatory' package='xorg-x11-libICE'/>
+    <including install='mandatory' package='xorg-x11-libXp'/>
+    <including install='mandatory' package='xorg-x11-libXpm'/>
+    <including install='mandatory' package='xorg-x11-libXfixes'/>
+    <including install='mandatory' package='xorg-x11-libXcomposite'/>
+    <including install='mandatory' package='xorg-x11-libXrender'/>
+    <including install='mandatory' package='xorg-x11-libXdamage'/>
+    <including install='mandatory' package='xorg-x11-libXcursor'/>
+    <including install='mandatory' package='xorg-x11-libXfont'/>
+    <including install='mandatory' package='xorg-x11-libXfontcache'/>
+    <including install='mandatory' package='xorg-x11-libXft'/>
+    <including install='mandatory' package='xorg-x11-libXi'/>
+    <including install='mandatory' package='xorg-x11-libXinerama'/>
+    <including install='mandatory' package='xorg-x11-libxkbfile'/>
+    <including install='mandatory' package='xorg-x11-libXrandr'/>
+    <including install='mandatory' package='xorg-x11-libXres'/>
+    <including install='mandatory' package='xorg-x11-libXScrnSaver'/>
+    <including install='mandatory' package='xorg-x11-libXtst'/>
+    <including install='mandatory' package='xorg-x11-libXv'/>
+    <including install='mandatory' package='xorg-x11-libXvMC'/>
+    <including install='mandatory' package='xorg-x11-libXxf86dga'/>
+    <including install='mandatory' package='xorg-x11-libXxf86misc'/>
+    <including install='mandatory' package='xorg-x11-libXxf86vm'/>
+    <including install='mandatory' package='xorg-x11-libSM'/>
+    <including install='mandatory' package='xorg-x11-libpciaccess'/>
+    <including install='mandatory' package='xorg-x11-libXt'/>
+    <including install='mandatory' package='xorg-x11-libXmu'/>
+    <including install='mandatory' package='xorg-x11-libXaw'/>
+    <including install='mandatory' package='xorg-x11-libAppleWM'/>
+    <including install='mandatory' package='xorg-x11-libWindowsWM'/>
+    <including install='optional' package='xorg-x11-doc'/>
+    <including install='mandatory' package='xorg-x11-xbitmaps'/>
+    <including install='mandatory' package='xorg-x11-app'/>
+    <including install='mandatory' package='xorg-x11-xcursor-themes'/>
+    <including install='mandatory' package='xorg-x11-font-util'/>
+    <including install='mandatory' package='xorg-x11-font-x11'/>
+    <including install='mandatory' package='xorg-x11-xserver'/>
+    <including install='mandatory' package='xorg-x11-driver'/>
+    <including install='optional' package='xorg-x11-app-twm'/>
+    <including install='optional' package='xorg-x11-app-xinit'/>
+    <including install='mandatory' package='xcb-proto'/>
+    <including install='mandatory' package='libxcb'/>
+    <including install='mandatory' package='libpthread-stubs'/>
+    <including install='mandatory' package='Mesa'/>
+    <including install='mandatory' package='libdrm'/>
+    <including install='mandatory' package='xkeyboard-config'/>
+    <including install='mandatory' package='x11-fonts-chinese'/>
+    <including install='optional' package='xchat'/>
+    <including install='optional' package='xosview'/>
+  </group>
+
+  <group name='internet'>
+    <description>
+    因特网类包括万维网浏览器 Firefox 等。
+    因特网类软件包都是必选包，当选择安装该类后，必选包是默认安装的。
+    </description>
+    <including install='optional' package='amsn'/>
+    <including install='mandatory' package='dbus'/>
+    <including install='mandatory' package='dbus-glib-1'/>
+    <including install='mandatory' package='firefox'/>
+    <including install='optional' package='thunderbird'/>
+  </group>
+  <group name='multi-media'>
+    <description>
+    多媒体类包括各种媒体库。
+    多媒体类都是可选软件包，可以自由选择安装。
+    </description>
+    <including install='optional' package='alsa-lib'/>
+    <including install='optional' package='alsa-oss'/>
+    <including install='optional' package='alsa-utils'/>
+    <including install='optional' package='audiofile'/>
+    <including install='optional' package='dvd+rw-tools'/>
+    <including install='optional' package='esound'/>
+    <including install='optional' package='lcms'/>
+    <including install='optional' package='libart_lgpl'/>
+    <including install='optional' package='libjpeg'/>
+    <including install='optional' package='libmng'/>
+    <including install='optional' package='libogg'/>
+    <including install='optional' package='libpng'/>
+    <including install='optional' package='libtiff'/>
+    <including install='optional' package='libungif'/>
+    <including install='optional' package='libvorbis'/>
+  </group>
+  <group name='network_service'>
+    <description>
+    网络服务类包括各种网络服务包。
+    网络服务类都是可选软件包，可以自由选择安装。
+    </description>
+    <including install='optional' package='apache'/>
+    <including install='optional' package='apr'/>
+    <including install='optional' package='bind'/>
+    <including install='optional' package='bindutils'/>
+    <including install='optional' package='cups'/>
+    <including install='optional' package='dhcp'/>
+    <including install='optional' package='dhcpcd'/>
+    <including install='optional' package='fetchmail'/>
+    <including install='optional' package='linux-identd'/>
+    <including install='optional' package='lukemftp'/>
+    <including install='optional' package='lynx'/>
+    <including install='optional' package='mod_perl'/>
+    <including install='optional' package='mod_php'/>
+    <including install='optional' package='nail'/>
+    <including install='optional' package='net-snmp'/>
+    <including install='optional' package='netkit-rsh'/>
+    <including install='optional' package='netkit-telnet'/>
+    <including install='optional' package='nfs-utils'/>
+    <including install='optional' package='ntp'/>
+    <including install='optional' package='pine'/>
+    <including install='optional' package='portmap'/>
+    <including install='optional' package='postfix'/>
+    <including install='optional' package='ppp'/>
+    <including install='optional' package='procmail'/>
+    <including install='optional' package='proftpd'/>
+    <including install='optional' package='rdate'/>
+    <including install='optional' package='rsync'/>
+    <including install='optional' package='samba'/>
+    <including install='optional' package='snort'/>
+    <including install='optional' package='squid'/>
+    <including install='optional' package='webfs'/>
+  </group>
+  <group name='network_tools'>
+    <description>
+    网络工具类包括 tcpdump 等网络工具。
+    网络工具类都是可选软件包，可以自由选择安装。
+    </description>
+    <including install='optional' package='libpcap'/>
+    <including install='optional' package='openldap'/>
+    <including install='optional' package='tcpdump'/>
+    <including install='optional' package='wireshark'/>
+  </group>
+  <group name='office'>
+    <description>
+    办公类包括 OpenOffice.org 等办公软件。
+    办公类都是必选软件包，当选择安装该类后，必选包是默认安装的。
+    </description>
+    <including install='mandatory' package='openoffice'/>
+  </group>
+
+  <group name='vm'>
+    <description>
+    通过软件模拟的具有完整硬件系统功能的、运行在一个完全隔离环境中的完整计算机系统
+    虚拟机类都是可选软件包，可以自由选择安装
+    </description>
+    <including install='optional' package='qemu-kvm'/>
+    <including install='optional' package='bridge-utils'/>
+    <including install='optional' package='uml-utilities'/>
+  </group>
+ <group name='publish'>
+    <description>
+    </description>
+    <including install='optional' package='haskell-libedit'/>
+    <including install='optional' package='haskell-ghc'/>
+    <including install='optional' package='haskell-pandoc'/>
+  </group>
+  <group name='kde'>
+    <description>
+    KDE是一种著名的自由图形工作环境,整个系统采用Qt程序库
+    KDE桌面类都是可选软件包，可以自由选择安装。
+    </description>
+    <including install='optional' package='kde-i18n-zh_CN'/>
+    <including install='optional' package='kdeaccessibility'/>
+    <including install='optional' package='kdeaddons'/>
+    <including install='optional' package='kdeadmin'/>
+    <including install='optional' package='kdeartwork'/>
+    <including install='optional' package='kdebase'/>
+    <including install='optional' package='kdebindings'/>
+    <including install='optional' package='kdeedu'/>
+    <including install='optional' package='kdegames'/>
+    <including install='optional' package='kdegraphics'/>
+    <including install='optional' package='kdelibs'/>
+    <including install='optional' package='kdemultimedia'/>
+    <including install='optional' package='kdenetwork'/>
+    <including install='optional' package='kdepim'/>
+    <including install='optional' package='kdesdk'/>
+    <including install='optional' package='kdetoys'/>
+    <including install='optional' package='kdeutils'/>
+    <including install='optional' package='kdevelop'/>
+    <including install='optional' package='kdewebdev'/>
+  </group>
+
+  <release name='base'>
+    <including group='base' install='mandatory'/>
+    <including group='development' install='optional'/>
+    <including group='gui' install='optional'/>
+    <including group='kde' install='optional'/>
+    <including group='internet' install='optional'/>
+    <including group='multi-media' install='optional'/>
+    <including group='network_service' install='optional'/>
+    <including group='network_tools' install='optional'/>
+    <including group='vm' install='optional'/>
+    <including group='office' install='optional'/>
+    <exception fix="delete" level="group" architecture="ia64">
+      <including group='vm' install='optional'/>
+      <including group='office' install='optional'/>
+      <including group='publish' install='optional'/>
+    </exception>
+    <exception fix="delete" level="package" architecture="ia64">
+      <group name="gui">
+	<including install='optional' package='tightvnc'/>
+      </group>
+    </exception>
+    <exception fix="add_or_modify" level="package" architecture="ia64">
+      <group name="base">
+	<including install='optional' package='parted'/>
+	<including install='optional' package='elilo'/>
+      </group>
+    </exception>
+  </release>
+  <release name='security' derived_from='base'>
+    <exception fix="add_or_modify" level="package">
+      <group name="base">
+	<including install='mandatory' package='libmac'/>
+	<including install='mandatory' package='libmec'/>
+	<including install='mandatory' package='mactools'/>
+	<including install='mandatory' package='mectools'/>
+      </group>
+    </exception>
+  </release>
+</configuration>

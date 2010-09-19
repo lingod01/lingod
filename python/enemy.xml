@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<enemy>
+<item id="1">
+	<one name="fruit"/>
+	<two name="turnip"/>
+	<reson name="thyroid"/>
+</item>
+<item id="2">
+	<one name="韭菜"/>
+	<two name="牛肉"/>
+	<reson name="影响钙吸收"/>
+</item>
+<item id="3">
+	<one name="西红柿"/>
+	<two name="黄瓜"/>
+	<reson name="影响维生素c吸收"/>
+</item>
+</enemy>

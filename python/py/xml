@@ -1,0 +1,9 @@
+#!/usr/bin/python
+#filename xml.py
+from xml.dom import minidom
+xmldoc = minidom.parse('../enemy.xml')
+print xmldoc.toxml()
+xmldoc.childNodes
+xmldoc.childNodes[0]
+xmldoc.firestChild
+
