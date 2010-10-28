@@ -1,0 +1,34 @@
+#!/usr/bin/python
+#filename parse-xml.py 
+from xml.dom import minidom
+xmldoc = minidom.parse('../enemy.xml')
+print xmldoc.toxml()
+print "-------up is the xml  document-------- "
+print xmldoc.childNodes
+print "--------up is childNodes-------- "
+print xmldoc.childNodes[0]
+print "--------up is childNodes[0]-------- "
+print xmldoc.firstChild
+print "--------up is firstChild-------- "
+
+fNd = xmldoc.firstChild
+print "--------firstChild.toxml-------- "
+print fNd.toxml()
+print "--------firstChild.firstChild.toxml-------- "
+print fNd.firstChild.toxml()
+
+print "--------firstChild.childNodes[1].toxml-------- "
+print fNd.childNodes[1].toxml()
+
+print "--------firstChild.childNodes[1].childNodes[1].toxml-------- "
+print fNd.childNodes[1].childNodes[1].toxml()
+print fNd.childNodes[1].firstChild.toxml()
+print fNd.childNodes[1].firstChild.data
+	
+
+print "--------firstChild.childNodes[1].childNodes[1].data-------- "
+#print fNd.childNodes[1].childNodes[1].data
+
+print "--------firstChild.firstChild.data-------- "
+print fNd.firstChild.data
+

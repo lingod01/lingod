@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <enemy>
 <item id="1">
-<p>kk</p>
 	<one name="fruit"/>
 	<two name="turnip"/>
 	<reson name="thyroid"/>

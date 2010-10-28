@@ -1,0 +1,26 @@
+#!/usr/bin/python
+#fileName search-xml.xml
+from xml.dom import minidom
+xmldoc = minidom.parse('../enemy.xml')
+print "------------xmldoc.getElementsByTagName('one')---"
+reflist = xmldoc.getElementsByTagName('one')
+print reflist[0].toxml()
+print reflist[1].toxml()
+
+print "------------xmldoc.getElementsByTagName('item')---"
+reflist = xmldoc.getElementsByTagName('item')
+print reflist[0].toxml()
+print reflist[1].toxml()
+
+print "--- reflist[0]--attributes----keys()----values()---"
+print reflist[0].attributes
+
+node = reflist[0].attributes["id"]
+print node.toxml()
+print node.keys()
+print node.values()
+#print reflist[0].keys()
+#print reflist[0].values()
+
+
+

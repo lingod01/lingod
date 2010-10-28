@@ -1,0 +1,7 @@
+Dir {
+  	ArchiveDir "rocky";
+};
+
+BinDirectory "pool/d_software" {
+  	Packages "dists/mozhate/d_software/binary-amd64/Packages";
+}
