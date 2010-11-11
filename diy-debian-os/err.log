@@ -1,0 +1,13 @@
+err:
+ddo-scheme.tex:2:Package inputenc Error: Unicode char \u 8:盘 not set up for use with LaTeX. ...rn> to continue without it.}}{4}{section.1}
+question:
+添加%\usepackage{here} ---texlive-latex3
+
+err:
+latex中文不显示，找不到ifpdf.sty
+question:
+重装texlive-latex-recommended
+\usepackage{CJKutf8}
+\begin{CJK}{UTF8}{gbsn}
+\end{CJK}
+

@@ -1,0 +1,118 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage{CJKutf8}
+\usepackage[hmargin={2.5cm,1.5cm},vmargin={1.5cm,1.5cm},includeheadfoot]{geometry}
+\usepackage{fancyhdr}
+\usepackage{verbatim}
+\usepackage{color}
+\usepackage{framed}
+\usepackage{titlesec}
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{3}
+\usepackage{indentfirst}
+\usepackage{parskip}
+% \usepackage[unicode]{hyperref}
+\usepackage[unicode,colorlinks=false,pdfborder={0 0 0}, bookmarksnumbered=true,bookmarksopen=true,bookmarksopenlevel=2]{hyperref}
+
+\usepackage[11pt]{moresize} % 字体
+\usepackage[T1]{fontenc}
+
+\usepackage{fancybox} % 支持文本加框
+
+\usepackage{array} % 制表环境
+\usepackage{longtable} % 长表格环境
+
+\usepackage{multirow} % 纵向合并单元格
+
+\usepackage{graphics}
+\usepackage{graphicx}
+%\usepackage{here} %图片位置
+
+%opening
+\title{diy自己的debian操作系统}
+\author{itcook}
+
+\begin{document}
+\begin{CJK}{UTF8}{gbsn}
+
+\maketitle
+
+\begin{abstract}
+从0开始，自己动手，制作自己的debina操作系统，让你认识操作系统组成的全过程，加深对操作系统的了解。让你熟悉开源软件的开发流程，深入体会开源的魅力，让你学会利用开源软件来解决问题。本书还介绍了多个有用的工程问题，和解决反案，也适用于其他系统。
+\end{abstract}
+
+\CJKindent
+\newpage
+\tableofcontents
+\setcounter{tocdepth}{3}
+
+
+
+\newpage
+\begin{center}
+\begin{tabular}{|c|l|l|}
+    \hline
+    修订号 & 时间 & 内容 \\
+    \hline
+    1 & 2010.11.11 & 文档初始化，纲要 \\
+    \hline
+    2 &  &  \\
+    \hline
+    3 &  &  \\
+    \hline
+    4 &  &  \\
+    \hline
+\end{tabular}
+\end{center}
+\newpage
+
+\part{制作iso光盘}
+\chapter{制作iso光盘}
+\section{下载代码仓库}
+\subsection{apt-mirror}
+\subsubsection{}
+\section{生成索引}
+\subsection{apt-}
+\subsubsection{}
+\subsection{apt-scanpackage}
+\subsubsection{}
+\subsection{apt-scansource}
+\subsubsection{}
+\subsection{mini-dinstall}
+\subsubsection{}
+
+\chapter{编译}
+\section{单个包编译}
+\subsection{}
+\subsubsection{}
+\section{整体编译}
+\subsection{}
+\subsubsection{}
+
+\part{key验证机制}
+\chapter{制作iso光盘}
+\section{key验证机制}
+\subsection{下载代码仓库}
+\subsubsection{apt-mirror}
+
+\part{网络安装}
+\chapter{网络安装}
+\section{网络安装}
+\subsection{下载代码仓库}
+\subsubsection{apt-mirror}
+
+\part{远程升级}
+\chapter{远程升级}
+\section{远程升级}
+\subsection{下载代码仓库}
+\subsubsection{apt-mirror}
+
+\part{参与debian开发}
+\chapter{远程升级}
+\section{远程升级}
+\subsection{下载代码仓库}
+\subsubsection{apt-mirror}
+
+
+
+\end{CJK}
+\end{document}
