@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.11.11)  11 NOV 2010 17:14
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.11.11)  15 NOV 2010 14:13
 entering extended mode
  %&-line parsing enabled.
 **ddo-scheme.tex
@@ -522,6 +522,15 @@ Package graphics Info: Driver file: pdftex.def on input line 90.
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
+)
+(/usr/share/texmf/tex/latex/contrib/here/here.sty)
+(/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count103
+\float@exts=\toks28
+\float@box=\box34
+\@float@everytoks=\toks29
+\@floatcapt=\box35
 ) (./ddo-scheme.aux)
 \openout1 = `ddo-scheme.aux'.
 
@@ -652,7 +661,7 @@ Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
 Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
 )
-\c@section@level=\count103
+\c@section@level=\count104
 )
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
@@ -694,494 +703,52 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 3.
 
 
-! Package inputenc Error: Unicode char \u 8:单 not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u 8:和 not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...n> to continue without it.}}{5}{section.3}
+l.37 ...o continue without it.}pxe}{8}{section.12}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
 or <return> to continue without it.
 
 
-! Package inputenc Error: Unicode char \u 8:个 not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u 8:基 not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...n> to continue without it.}}{5}{section.3}
+l.38 ...continue without it.}}{8}{subsection.12.1}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
 or <return> to continue without it.
 
 
-! Package inputenc Error: Unicode char \u 8:包 not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u 8:本 not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...n> to continue without it.}}{5}{section.3}
+l.38 ...continue without it.}}{8}{subsection.12.1}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
 or <return> to continue without it.
 
 
-! Package inputenc Error: Unicode char \u 8:编 not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u 8:流 not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 ...n> to continue without it.}}{5}{section.3}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:译 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 ...n> to continue without it.}}{5}{section.3}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:整 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 ...n> to continue without it.}}{5}{section.4}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:体 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 ...n> to continue without it.}}{5}{section.4}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:编 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 ...n> to continue without it.}}{5}{section.4}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:译 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 ...n> to continue without it.}}{5}{section.4}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:验 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 ...turn> to continue without it.}}{5}{part.2}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:证 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 ...turn> to continue without it.}}{5}{part.2}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:机 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 ...turn> to continue without it.}}{5}{part.2}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:制 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.20 ...turn> to continue without it.}}{5}{part.2}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:验 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...n> to continue without it.}}{5}{section.5}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:证 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...n> to continue without it.}}{5}{section.5}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:机 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...n> to continue without it.}}{5}{section.5}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:制 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 ...n> to continue without it.}}{5}{section.5}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:下 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ... continue without it.}}{5}{subsection.5.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:载 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ... continue without it.}}{5}{subsection.5.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:代 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ... continue without it.}}{5}{subsection.5.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:码 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ... continue without it.}}{5}{subsection.5.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:仓 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ... continue without it.}}{5}{subsection.5.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:库 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.22 ... continue without it.}}{5}{subsection.5.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:网 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 ...turn> to continue without it.}}{5}{part.3}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:络 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 ...turn> to continue without it.}}{5}{part.3}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:安 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 ...turn> to continue without it.}}{5}{part.3}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:装 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 ...turn> to continue without it.}}{5}{part.3}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:网 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 ...n> to continue without it.}}{5}{section.6}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:络 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 ...n> to continue without it.}}{5}{section.6}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:安 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 ...n> to continue without it.}}{5}{section.6}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:装 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 ...n> to continue without it.}}{5}{section.6}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:下 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ... continue without it.}}{5}{subsection.6.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:载 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ... continue without it.}}{5}{subsection.6.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:代 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ... continue without it.}}{5}{subsection.6.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:码 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ... continue without it.}}{5}{subsection.6.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:仓 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ... continue without it.}}{5}{subsection.6.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:库 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 ... continue without it.}}{5}{subsection.6.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:远 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 ...turn> to continue without it.}}{5}{part.4}
+l.38 ...continue without it.}}{8}{subsection.12.1}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
@@ -1194,33 +761,60 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28 ...turn> to continue without it.}}{5}{part.4}
+l.38 ...continue without it.}}{8}{subsection.12.1}
+                                                  
+Your command was ignored.
+Type I <command> <return> to replace it with another command,
+or <return> to continue without it.
+
+[2]
+
+! Package inputenc Error: Unicode char \u 8:源 not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...> to continue without it.}}{8}{section.14}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
 or <return> to continue without it.
 
 
-! Package inputenc Error: Unicode char \u 8:升 not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u 8:服 not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28 ...turn> to continue without it.}}{5}{part.4}
+l.43 ...> to continue without it.}}{8}{section.14}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
 or <return> to continue without it.
 
 
-! Package inputenc Error: Unicode char \u 8:级 not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u 8:务 not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28 ...turn> to continue without it.}}{5}{part.4}
+l.43 ...> to continue without it.}}{8}{section.14}
+                                                  
+Your command was ignored.
+Type I <command> <return> to replace it with another command,
+or <return> to continue without it.
+
+
+! Package inputenc Error: Unicode char \u 8:器 not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 ...> to continue without it.}}{8}{section.14}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
@@ -1233,7 +827,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...n> to continue without it.}}{6}{section.7}
+l.49 ...turn> to continue without it.}}{8}{part.4}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
@@ -1246,7 +840,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...n> to continue without it.}}{6}{section.7}
+l.49 ...turn> to continue without it.}}{8}{part.4}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
@@ -1259,7 +853,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...n> to continue without it.}}{6}{section.7}
+l.49 ...turn> to continue without it.}}{8}{part.4}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
@@ -1272,85 +866,59 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...n> to continue without it.}}{6}{section.7}
+l.49 ...turn> to continue without it.}}{8}{part.4}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
 or <return> to continue without it.
 
 
-! Package inputenc Error: Unicode char \u 8:下 not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u 8:参 not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 ... continue without it.}}{6}{subsection.7.1}
+l.53 ...turn> to continue without it.}}{8}{part.5}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
 or <return> to continue without it.
 
 
-! Package inputenc Error: Unicode char \u 8:载 not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u 8:与 not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 ... continue without it.}}{6}{subsection.7.1}
+l.53 ...turn> to continue without it.}}{8}{part.5}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
 or <return> to continue without it.
 
 
-! Package inputenc Error: Unicode char \u 8:代 not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u 8:开 not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 ... continue without it.}}{6}{subsection.7.1}
+l.53 ...turn> to continue without it.}}{8}{part.5}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
 or <return> to continue without it.
 
 
-! Package inputenc Error: Unicode char \u 8:码 not set up for use with LaTeX.
+! Package inputenc Error: Unicode char \u 8:发 not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 ... continue without it.}}{6}{subsection.7.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:仓 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 ... continue without it.}}{6}{subsection.7.1}
-                                                  
-Your command was ignored.
-Type I <command> <return> to replace it with another command,
-or <return> to continue without it.
-
-
-! Package inputenc Error: Unicode char \u 8:库 not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 ... continue without it.}}{6}{subsection.7.1}
+l.53 ...turn> to continue without it.}}{8}{part.5}
                                                   
 Your command was ignored.
 Type I <command> <return> to replace it with another command,
@@ -1360,72 +928,58 @@ or <return> to continue without it.
 \tf@toc=\write5
 \openout5 = `ddo-scheme.toc'.
 
- [2] [3] [4] [5] [6] (./ddo-scheme.aux) ) 
+ [3] [4] [5] [6] [7] [8] [9] (./ddo-scheme.aux) ) 
 Here is how much of TeX's memory you used:
- 6389 strings out of 95080
- 80283 string characters out of 1183096
- 140554 words of memory out of 1500000
- 9233 multiletter control sequences out of 10000+50000
- 43780 words of font info for 139 fonts, out of 1200000 for 2000
+ 6581 strings out of 95080
+ 83176 string characters out of 1183096
+ 143948 words of memory out of 1500000
+ 9374 multiletter control sequences out of 10000+50000
+ 49343 words of font info for 158 fonts, out of 1200000 for 2000
  28 hyphenation exceptions out of 8191
- 30i,6n,43p,2109b,1097s stack positions out of 5000i,500n,6000p,200000b,5000s
-pdfTeX warning (dest): name{subsubsect
-ion.2.4.1} has been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.4} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.3.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.3} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.2.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
- </home/lxu/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600pk> </home/lxu/.
-texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000.600pk> </home/lxu/.texmf-var/fon
-ts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/lxu/.texmf-var/fonts/pk/ljfour/
-jknappen/ec/ecbx1440.600pk> </home/lxu/.texmf-var/fonts/pk/ljfour/jknappen/ec/e
-crm1000.600pk> </home/lxu/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk
-> </home/lxu/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx0900.600pk> </home/lxu/
-.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/lxu/.texmf-var/fo
-nts/pk/ljfour/jknappen/ec/ecrm1728.600pk></usr/share/texmf/fonts/type1/arphic/g
-bsnu/gbsnu30.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu4e.pfb></usr/s
-hare/texmf/fonts/type1/arphic/gbsnu/gbsnu4f.pfb></usr/share/texmf/fonts/type1/a
-rphic/gbsnu/gbsnu51.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu52.pfb>
-</usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu53.pfb></usr/share/texmf/fonts/
-type1/arphic/gbsnu/gbsnu54.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu
-59.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu5b.pfb></usr/share/texmf
-/fonts/type1/arphic/gbsnu/gbsnu5d.pfb></usr/share/texmf/fonts/type1/arphic/gbsn
-u/gbsnu5e.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu5f.pfb></usr/shar
-e/texmf/fonts/type1/arphic/gbsnu/gbsnu60.pfb></usr/share/texmf/fonts/type1/arph
-ic/gbsnu/gbsnu62.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu64.pfb></u
-sr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu65.pfb></usr/share/texmf/fonts/typ
-e1/arphic/gbsnu/gbsnu67.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu68.
-pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu6d.pfb></usr/share/texmf/fo
-nts/type1/arphic/gbsnu/gbsnu6e.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/g
-bsnu71.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu75.pfb></usr/share/t
-exmf/fonts/type1/arphic/gbsnu/gbsnu76.pfb></usr/share/texmf/fonts/type1/arphic/
-gbsnu/gbsnu78.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu7a.pfb></usr/
-share/texmf/fonts/type1/arphic/gbsnu/gbsnu7c.pfb></usr/share/texmf/fonts/type1/
-arphic/gbsnu/gbsnu7d.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu7e.pfb
-></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu7f.pfb></usr/share/texmf/fonts
-/type1/arphic/gbsnu/gbsnu81.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsn
-u88.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu89.pfb></usr/share/texm
-f/fonts/type1/arphic/gbsnu/gbsnu8b.pfb></usr/share/texmf/fonts/type1/arphic/gbs
-nu/gbsnu8f.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu90.pfb></usr/sha
-re/texmf/fonts/type1/arphic/gbsnu/gbsnu95.pfb></usr/share/texmf/fonts/type1/arp
-hic/gbsnu/gbsnu98.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu9a.pfb></
-usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu9b.pfb></usr/share/texmf/fonts/ty
-pe1/arphic/gbsnu/gbsnuff.pfb>
-Output written on ddo-scheme.pdf (6 pages, 248970 bytes).
+ 30i,6n,43p,1447b,1169s stack positions out of 5000i,500n,6000p,200000b,5000s
+ </home/lxu/.texmf-var/fonts/p
+k/ljfour/jknappen/ec/ecbx2074.600pk> </home/lxu/.texmf-var/fonts/pk/ljfour/jkna
+ppen/ec/ecbx1000.600pk> </home/lxu/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1
+200.600pk> </home/lxu/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </
+home/lxu/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/lxu/.tex
+mf-var/fonts/pk/ljfour/jknappen/ec/ecrm0900.600pk> </home/lxu/.texmf-var/fonts/
+pk/ljfour/jknappen/ec/ecbx0900.600pk> </home/lxu/.texmf-var/fonts/pk/ljfour/jkn
+appen/ec/ecrm1200.600pk> </home/lxu/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm
+1728.600pk></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu30.pfb></usr/share/t
+exmf/fonts/type1/arphic/gbsnu/gbsnu4e.pfb></usr/share/texmf/fonts/type1/arphic/
+gbsnu/gbsnu4f.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu51.pfb></usr/
+share/texmf/fonts/type1/arphic/gbsnu/gbsnu52.pfb></usr/share/texmf/fonts/type1/
+arphic/gbsnu/gbsnu53.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu54.pfb
+></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu56.pfb></usr/share/texmf/fonts
+/type1/arphic/gbsnu/gbsnu57.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsn
+u59.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu5b.pfb></usr/share/texm
+f/fonts/type1/arphic/gbsnu/gbsnu5d.pfb></usr/share/texmf/fonts/type1/arphic/gbs
+nu/gbsnu5e.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu5f.pfb></usr/sha
+re/texmf/fonts/type1/arphic/gbsnu/gbsnu60.pfb></usr/share/texmf/fonts/type1/arp
+hic/gbsnu/gbsnu62.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu64.pfb></
+usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu65.pfb></usr/share/texmf/fonts/ty
+pe1/arphic/gbsnu/gbsnu67.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu68
+.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu69.pfb></usr/share/texmf/f
+onts/type1/arphic/gbsnu/gbsnu6d.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/
+gbsnu6e.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu71.pfb></usr/share/
+texmf/fonts/type1/arphic/gbsnu/gbsnu74.pfb></usr/share/texmf/fonts/type1/arphic
+/gbsnu/gbsnu75.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu76.pfb></usr
+/share/texmf/fonts/type1/arphic/gbsnu/gbsnu78.pfb></usr/share/texmf/fonts/type1
+/arphic/gbsnu/gbsnu7a.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu7c.pf
+b></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu7d.pfb></usr/share/texmf/font
+s/type1/arphic/gbsnu/gbsnu7e.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbs
+nu7f.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu81.pfb></usr/share/tex
+mf/fonts/type1/arphic/gbsnu/gbsnu88.pfb></usr/share/texmf/fonts/type1/arphic/gb
+snu/gbsnu89.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu8b.pfb></usr/sh
+are/texmf/fonts/type1/arphic/gbsnu/gbsnu8f.pfb></usr/share/texmf/fonts/type1/ar
+phic/gbsnu/gbsnu90.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu94.pfb><
+/usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu95.pfb></usr/share/texmf/fonts/t
+ype1/arphic/gbsnu/gbsnu98.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu9
+a.pfb></usr/share/texmf/fonts/type1/arphic/gbsnu/gbsnu9b.pfb></usr/share/texmf/
+fonts/type1/arphic/gbsnu/gbsnuff.pfb>
+Output written on ddo-scheme.pdf (9 pages, 294637 bytes).
 PDF statistics:
- 602 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 131072)
- 425 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 775 PDF objects out of 1000 (max. 8388607)
+ 66 named destinations out of 1000 (max. 131072)
+ 645 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,7 +1,11 @@
 err:
 ddo-scheme.tex:2:Package inputenc Error: Unicode char \u 8:盘 not set up for use with LaTeX. ...rn> to continue without it.}}{4}{section.1}
 solution:
-添加%\usepackage{here} ---texlive-latex3, 但是缺少这个包仍然可以声称pdf，这个包是用来固定图片位置的包
+添加%\usepackage{here} 但是缺少这个包仍然可以声称pdf，这个包是用来固定图片位置的包
+缺少某个宏包（如 here.sty），从这里下载： http://www.ctan.org
+然后在本机相应的的texmf/tex/latex下建立一个同名目录，并将.sty文件放进
+去，最后texhash更新一下就可以了。
+
 
 err:
 latex中文不显示，找不到ifpdf.sty
@@ -15,3 +19,4 @@ err:
 目录不显示中文
 solution:
 添加这个包 \usepackage[unicode,colorlinks=false,pdfborder={0 0 0}, bookmarksnumbered=true,bookmarksopen=true,bookmarksopenlevel=2]{hyperref}
+
